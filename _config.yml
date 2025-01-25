@@ -13,7 +13,7 @@ title                    : "Abhijnan Dikshit"
 title_separator          : "-"
 subtitle                 : "PhD Student | Aerospace | Computational Science"
 name                     : "Abhijnan Dikshit"
-description              : "PhD Student"
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Abhijnan03/Abhijnan03.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Abhijnan Dikshit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a PhD student in Aerospace Engineering at Purdue University. I am interested in multidisciplinary optimization, computational science, and aircraft design."
+  location         : "West Lafayette, Indiana, USA"
+  email            : "adikshit@purdue.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
