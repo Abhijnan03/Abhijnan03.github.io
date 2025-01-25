@@ -1,3 +1,8 @@
+---
+permalink: /cv/
+title: "CV"
+---
+
 # Education
 
 - Doctor of Philosophy (PhD), Aeronautical and Astronautical Engineering, Purdue University, 2022 - 2027 (Expected)
