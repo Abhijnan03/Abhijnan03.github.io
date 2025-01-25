@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Write something about you here. For example, the following is the first paragraph from the about page of minimal mistake.
-
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+I am a PhD Student in the School of Aeronautics and Astronautics at Purdue University. I am a graduate research assistant and graduate teaching assistant working in the [Computational Design Laboratory][https://www.computationaldesignlab.org/]. I am interested in multidisciplinary optimization, surrogate modeling, computational science and aircraft design.
