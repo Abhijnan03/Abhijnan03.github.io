@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Abhijnan Dikshit"
   avatar           : "/assets/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student in Aerospace Engineering at Purdue University. I am interested in multidisciplinary optimization, computational science, and aircraft design."
+  bio              : "PhD Student, Purdue University"
   location         : "West Lafayette, Indiana, USA"
   email            : "adikshit@purdue.edu"
   uri              :
